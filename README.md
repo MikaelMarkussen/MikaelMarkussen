@@ -19,10 +19,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 
-### GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MikaelMarkussen&show_icons=true&theme=radical)
-
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikael-markussen/)
