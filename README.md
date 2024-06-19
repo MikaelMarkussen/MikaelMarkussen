@@ -10,14 +10,14 @@
 
 ### My Tech Stack
 
-![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![MongoDB](https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=Vulkan&logoColor=white) sort of
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![MongoDB](https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=Vulkan&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 
 ### GitHub Stats
 
